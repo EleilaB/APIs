@@ -1,0 +1,30 @@
+* {
+    background-color: rgb(1, 1, 44);
+}
+
+#get-residents-button {
+    display: block;
+    height: 50px;
+    width: 150px;
+    border-style: solid;
+    border-color: rgb(24, 24, 24);
+    border-radius: 15px;
+    color: yellow;
+    background-color: black;
+    margin: auto;
+}
+
+div {
+    display: flex;
+    padding: 30px;
+    margin: auto;
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+}
+
+h2 {
+    color: yellow;
+    font-size: 24px;
+    margin: auto;
+}
